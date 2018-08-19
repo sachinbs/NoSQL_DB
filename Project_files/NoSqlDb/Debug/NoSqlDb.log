@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\XmlDocument\XmlDocument\XmlDocument.vcxproj' does not exist.
+  NoSqlDb.vcxproj -> E:\Sachin\Sachin-C++\OOD\Projects\Project1\Sachin_Project1\Debug\NoSqlDb.exe
+  NoSqlDb.vcxproj -> E:\Sachin\Sachin-C++\OOD\Projects\Project1\Sachin_Project1\Debug\NoSqlDb.pdb (Full PDB)

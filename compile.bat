@@ -1,0 +1,1 @@
+devenv Sachin_Project1.sln /rebuild debug
